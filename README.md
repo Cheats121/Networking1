@@ -4,7 +4,7 @@ Basic Networking (Switch + 2 PCs)
 # Lab 1: VLANs & Subnetting
 
 ### Overview
-In this lab you configured basic IPv4 addressing, subnet masks, and VLANs to segment traffic between four PCs and a switch.
+This lab configured basic IPv4 addressing, subnet masks, and VLANs to segment traffic between four PCs and a switch.
 
 ### Topology
 - **PC1 (Dug)**: 192.168.1.1/25  
